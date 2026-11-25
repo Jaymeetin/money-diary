@@ -2,10 +2,13 @@
 
 A personal diary, work-task list and money tracker that works **without internet** and syncs between your phone and computer.
 
-- Diary notes with mood, expenses (with receipt photos), income and monthly budgets
-- Work tasks with instructions, where to process them, urgent requests and a copyable work report
-- Monthly bills, money to collect from people (e.g. internet you share), IOUs and savings goals
-- A calculator on every amount, plus spending and 5 PM work reminders inside the app
+- Phone-first design: bottom tab bar with a big + button; sidebar on computers
+- Diary notes with mood, expenses (with receipt photos and suggested item names), income and monthly budgets
+- Work board (To do / In progress / Done) with instructions, where to process each task, urgent requests and a copyable work report
+- Work travel with photos of Certificates of Appearance, downloadable as one PDF per month
+- Calendar heat map of spending and work done, with a summary for each day
+- Monthly bills, money to collect from people (marked as your money or for school), IOUs and savings goals
+- A calculator on every amount, plus spending and 5 PM work/travel reminders inside the app
 
 ## How it works
 

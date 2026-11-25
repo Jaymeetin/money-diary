@@ -1,6 +1,6 @@
 /* Money Diary service worker: keeps the app working with no internet.
    App files are cached on install; your data never passes through here (it lives in IndexedDB and syncs to Supabase). */
-const VERSION = "md-v1";
+const VERSION = "md-v2";
 const FONTS = "md-fonts";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
